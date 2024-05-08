@@ -1,4 +1,4 @@
-# Capture Video (Frames) To Images
+# Capture A Video (Frames) To Images
 
 ## Clone Project
 
