@@ -1,5 +1,10 @@
 # Capture A Video (Frames) To Images
 
+## Requirement
+
+- ffmpeg
+- python3
+
 ## Clone Project
 
 ```sh
