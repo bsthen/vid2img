@@ -1,4 +1,4 @@
-# Capture A Video (Frames) To Images | [ភាសាខ្មែរ](https://github.com/bsthen/vid2img/README_KM.md)
+# Capture A Video (Frames) To Images | [ភាសាខ្មែរ](https://github.com/bsthen/vid2img/blob/main/README_KM.md)
 
 ## Requirement
 
