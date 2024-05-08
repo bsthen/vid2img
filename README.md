@@ -2,8 +2,8 @@
 
 ## Requirement
 
-- ffmpeg
-- python3
+- FFMPEG  [Installation](https://www.bannerbear.com/blog/how-to-install-ffmpeg-on-mac-windows-and-ubuntu-linux-step-by-step/)
+- Python3 [Installation](https://kinsta.com/knowledgebase/install-python/)
 
 ## Clone Project
 
