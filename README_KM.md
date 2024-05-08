@@ -1,4 +1,4 @@
-# ចតថម្លងរូបភាព ក្នុងវីដេអូទៅជារូបសន្លឹក | [English](https://github.com/bsthen/vid2img)
+# ថតចម្លងរូបភាព ក្នុងវីដេអូទៅជារូបសន្លឹក | [English](https://github.com/bsthen/vid2img)
 
 ## តម្រូវការ
 
